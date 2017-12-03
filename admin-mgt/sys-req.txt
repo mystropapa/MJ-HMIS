@@ -1,0 +1,45 @@
+Front desk ( Check- in / Check-out)
+- Room Allocation as per Preference
+- Best Occupancy Level Allocation
+- Guest Notifications
+- Internal Notification
+- Black Listed Guest Alerts
+- Late Check-Out Fee
+- Guest Billing
+- Payment Modes
+- Bookings / Reservations
+- Group Check-Out
+
+
+Reservation
+- Rate and Room Availability
+- Guest and Company Profile Management
+- Cancellation / No-Show
+- Rebooking
+- Booking Confirmation
+- Instant Multiple Bookings
+- Room or Room Type Booking
+
+
+Room Setup/ details
+- Rate management
+- Room Service
+- Room Data
+- All occupants
+- Seasonal rates
+
+
+Back Office Operations / Accounting
+- User Roles and Access Rights
+- Night Audit
+- Shift and Cash Management
+- Receivables and Payables
+- Income and Expenditure reports
+- VAT Reports
+
+
+
+Stock Management
+- Purchases
+- Inventory
+- Reports
